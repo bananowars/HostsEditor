@@ -1,0 +1,8 @@
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\bin\Release\HostsEditor.exe.config
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\bin\Release\HostsEditor.exe
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\bin\Release\HostsEditor.pdb
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\obj\Release\HostsEditor.HostsEditorForm.resources
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\obj\Release\HostsEditor.Properties.Resources.resources
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\obj\Release\HostsEditor.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\obj\Release\HostsEditor.exe
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\obj\Release\HostsEditor.pdb

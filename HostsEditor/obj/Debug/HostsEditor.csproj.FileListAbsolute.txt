@@ -1,0 +1,21 @@
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\bin\Debug\HostsEditor.exe.config
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\bin\Debug\HostsEditor.exe
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\bin\Debug\HostsEditor.pdb
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\obj\Debug\HostsEditor.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\obj\Debug\HostsEditor.HostsEditorForm.resources
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\obj\Debug\HostsEditor.Properties.Resources.resources
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\obj\Debug\HostsEditor.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\obj\Debug\HostsEditor.exe
+C:\Users\Андрей\Desktop\HostsEditor\HostsEditor\obj\Debug\HostsEditor.pdb
+E:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\bin\Debug\HostsEditor.exe.config
+E:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\obj\Debug\HostsEditor.exe
+E:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\obj\Debug\HostsEditor.pdb
+D:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\bin\Debug\HostsEditor.exe.config
+D:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\bin\Debug\HostsEditor.exe
+D:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\bin\Debug\HostsEditor.pdb
+D:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\obj\Debug\HostsEditor.csprojResolveAssemblyReference.cache
+D:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\obj\Debug\HostsEditor.HostsEditorForm.resources
+D:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\obj\Debug\HostsEditor.Properties.Resources.resources
+D:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\obj\Debug\HostsEditor.csproj.GenerateResource.Cache
+D:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\obj\Debug\HostsEditor.exe
+D:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\obj\Debug\HostsEditor.pdb
