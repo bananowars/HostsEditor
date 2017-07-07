@@ -19,3 +19,12 @@ D:\Файлы\Програмирование\Проэкты VS\HostsEditor\Hosts
 D:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\obj\Debug\HostsEditor.csproj.GenerateResource.Cache
 D:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\obj\Debug\HostsEditor.exe
 D:\Файлы\Програмирование\Проэкты VS\HostsEditor\HostsEditor\obj\Debug\HostsEditor.pdb
+C:\Users\Андрей Епифанов\Desktop\HostsEditor\HostsEditor\bin\Debug\HostsEditor.exe.config
+C:\Users\Андрей Епифанов\Desktop\HostsEditor\HostsEditor\bin\Debug\HostsEditor.exe
+C:\Users\Андрей Епифанов\Desktop\HostsEditor\HostsEditor\bin\Debug\HostsEditor.pdb
+C:\Users\Андрей Епифанов\Desktop\HostsEditor\HostsEditor\obj\Debug\HostsEditor.csprojResolveAssemblyReference.cache
+C:\Users\Андрей Епифанов\Desktop\HostsEditor\HostsEditor\obj\Debug\HostsEditor.HostsEditorForm.resources
+C:\Users\Андрей Епифанов\Desktop\HostsEditor\HostsEditor\obj\Debug\HostsEditor.Properties.Resources.resources
+C:\Users\Андрей Епифанов\Desktop\HostsEditor\HostsEditor\obj\Debug\HostsEditor.csproj.GenerateResource.Cache
+C:\Users\Андрей Епифанов\Desktop\HostsEditor\HostsEditor\obj\Debug\HostsEditor.exe
+C:\Users\Андрей Епифанов\Desktop\HostsEditor\HostsEditor\obj\Debug\HostsEditor.pdb

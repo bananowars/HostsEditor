@@ -20,7 +20,7 @@ namespace HostsEditor
             InitializeComponent();
             ReadFile();
         }
-        Regex myReg = new Regex(@"\.(ru|com|ua|su|net|me|info)\b");
+        Regex myReg = new Regex(@"\.(ru|com|ua|su|net|me|info|md)\b");
         string path = @"C:\Windows\System32\drivers\etc\hosts";
         async private void removeUrl_Click(object sender, EventArgs e)
         {
